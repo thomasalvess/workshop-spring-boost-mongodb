@@ -13,7 +13,7 @@ import com.educandoweb.workshopmongo.repository.UserRepository;
 public class Instantiation implements CommandLineRunner{
 
 	@Autowired
-	private UserRepository userReposiroty;
+	private UserRepository userReposiroty; 
 	
 	@Override
 	public void run(String... args) throws Exception {

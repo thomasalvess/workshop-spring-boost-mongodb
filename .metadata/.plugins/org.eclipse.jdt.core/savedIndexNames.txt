@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Projetos\ws-sts\workshopmongo\.metadata\.plugins\org.eclipse.jdt.core
+641873856.index
